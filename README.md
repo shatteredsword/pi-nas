@@ -36,7 +36,8 @@ __Price:__ $7.95
 
 
 # Tools Needed:
-* Metric Step Bit (up to at least 30mm)
+* [Metric Step Bit (up to at least 30mm)](https://www.amazon.com/gp/product/B075958VBL/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+![Metric Step Bit](images/step_bit.jpg)
 * A Drill
 * Phillips Screwdriver
 
