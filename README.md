@@ -1,6 +1,11 @@
 # pi-nas
 a walkthrough of my Raspberry pi 4 powered network-attached storage setup
-# purchase guide
+
+# Table of Contents
+* [Purchase Guide](#Purchase-Guide)
+* [Hardware Build Pictures](#Hardware-Build-Pictures)
+
+# Purchase Guide
 ## [Raspberry Pi 4 Model B 4GB variant](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/?variant=raspberry-pi-4-model-b-4gb)
 ![Raspberry Pi 4 Model B](images/RPi4.jpg)
 __Price:__ $55.00
@@ -35,13 +40,19 @@ __Price:__ $7.95
 ### __Total Price (NOT INCLUDING TAX + SHIPPING):__ $215.27
 
 
-# Tools Needed:
+## Tools Needed:
 * [Metric Step Bit (up to at least 30mm)](https://www.amazon.com/gp/product/B075958VBL/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 ![Metric Step Bit](images/step_bit.jpg)
 * A Drill
 * Phillips Screwdriver
 
-# Additional Tools Recommended:
+## Additional Tools Recommended:
 * Automatic Center Punch
 * Metric Ruler
 * A Pencil
+
+# Hardware Build Pictures
+![inside enclosure empty](images/inside_empty.jpg)
+![hole measurements](images/hole_measurements.jpg)
+![ports](images/ports.jpg)
+![inside finished](images/inside_finished.jpg)
